@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=regiane-lima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://i.pinimg.com/originals/1a/26/e5/1a26e51bfd0aa963e0a48618175a9836.gif" />
 </p>
 
 
