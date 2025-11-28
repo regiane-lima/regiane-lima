@@ -1,26 +1,36 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+REGIANE+LIMA;EU+TENHO+20+ANOS;EU+MORO+EM+SÃO+PAULO;SEJA+MUITO+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1a/26/e5/1a26e51bfd0aa963e0a48618175a9836.gif" />
-</p>
+</div>
+
+---
 
 <p align="center">
-  <a href="https://instagram.com/yangz0o66" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:regianelaurentinodelimare@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/regiane-laurentino-640416214" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
-  </a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dsZ2J3djY2bG9xNjV0a3E1ZjVnZGphYnhpYTVnaWZ6dXd4NDd1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="300">
 </p>
 
 ---
 
-### 💜 Minhas skills:
+## 🌐 **Redes sociais**
+<div align="center">
+<a href="https://instagram.com/yangz0o66" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:regianelaurentinodelimare@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/regiane-laurentino-640416214" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
+
+---
+
+## 💜 **Minhas skills**
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,18 +40,28 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
 
+</div>
+
 ---
 
+## 📊 **Meus Status**
 <div align="center">
-  <br>
-  <p align="center"><b>Visitantes</b></p>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/{regiane-lima}/count.svg" />
-  </p>
-  <br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=regiane-lima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regiane-lima&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+</div>
+
+---
+
+## 👀 **Visitantes**
+<div align="center">
+<p><b>Contador de visitas</b></p>
+<img src="https://profile-counter.glitch.me/{regiane-lima}/count.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+
 
 
 
