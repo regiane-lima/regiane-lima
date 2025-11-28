@@ -11,7 +11,7 @@
 </p>
 
 
-## 🌐 **Redes sociais**
+## **Redes sociais**
 <div align="center">
 <a href="https://instagram.com/yangz0o66" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white">
@@ -25,7 +25,7 @@
 </div>
 
 
-## 💜 **Minhas skills**
+## **Minhas skills**
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,7 +38,7 @@
 
 </div>
 
-## 📊 **Meus Status**
+## **Meus Status**
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=regiane-lima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
