@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <p align="center">
   <img width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsdjE4MHhrbW8yOGh1OWIxOWl1d29mNXdra3VidXd4cG94Ynp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3QmY3Q9Zw/lXxTIsrjKqzO2b0CAs/giphy.gif" />
 </p>
