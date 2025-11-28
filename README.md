@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dsZ2J3djY2bG9xNjV0a3E1ZjVnZGphYnhpYTVnaWZ6dXd4NDd1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="300">
+  <img width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsdjE4MHhrbW8yOGh1OWIxOWl1d29mNXdra3VidXd4cG94Ynp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3QmY3Q9Zw/lXxTIsrjKqzO2b0CAs/giphy.gif" />
 </p>
 
 ---
@@ -53,12 +53,6 @@
 </div>
 
 ---
-
-## 👀 **Visitantes**
-<div align="center">
-<p><b>Contador de visitas</b></p>
-<img src="https://profile-counter.glitch.me/{regiane-lima}/count.svg" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
 
