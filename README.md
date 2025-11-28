@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=36&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+REGIANE+LIMA;EU+TENHO+20+ANOS;EU+MORO+EM+SÃO+PAULO;SEJA+MUITO+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=18507048527151130" height="233" width="236" frameborder="0" scrolling="no" ></iframe>
+  <img width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNsdjE4MHhrbW8yOGh1OWIxOWl1d29mNXdra3VidXd4cG94Ynp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3QmY3Q9Zw/lXxTIsrjKqzO2b0CAs/giphy.gif" />
 </p>
 
 ---
